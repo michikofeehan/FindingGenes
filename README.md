@@ -9,3 +9,6 @@ Wrote the method findSimpleGene that has one String parameter dna, representing 
 
 3)If the length of the substring between the “ATG” and “TAA” is a multiple of 3, then the program returns the substring that starts with that “ATG” and ends with that “TAA”.
 
+
+![Output](https://github.com/michikofeehan/FindingGenes/blob/master/Output%20FindingGenes%20Michiko.png)
+
