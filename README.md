@@ -1,5 +1,5 @@
 # FindingGenes
-determine if a DNA strand has a gene 
+Determines if a DNA strand has a gene. 
 
 Wrote the method findSimpleGene that has one String parameter dna, representing a string of DNA. This method does the following:
 
