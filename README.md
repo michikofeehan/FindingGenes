@@ -16,4 +16,5 @@ Part 2:
 Modified the findSimpleGene method to work with DNA strings that are either all uppercase letters such as “ATGGGTTAAGTC” or all lowercase letters such as “gatgctataat”. 
  
 Calling findSimpleGene with “ATGGGTTAAGTT” returns the answer with uppercase letters, the gene “ATGGGTTAA”, and calling findSimpleGene with “gatgctataac” returns the answer with lowercase letters, the gene “atgctataa”
-![Output](https://github.com/michikofeehan/FindingGenes/blob/master/part2output.png)
+
+![Output](https://github.com/michikofeehan/FindingGenes/blob/master/outputPart2.png)
