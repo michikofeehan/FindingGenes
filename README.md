@@ -39,4 +39,4 @@ Specifically, I did the following:
 The part of the string after an in bananana is anana.
 The part of the string after michiko in ocean is ocean.
 
-![Output] (https://github.com/michikofeehan/FindingGenes/blob/master/Part3%20output.png)
+![Output](https://github.com/michikofeehan/FindingGenes/blob/master/Part3%20output.png)
