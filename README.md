@@ -1,4 +1,4 @@
-# FindingGenes
+# FindingGenes and Pulling Web Links
 Determines if a DNA strand has a gene. 
 
 Part 1: 
