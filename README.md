@@ -40,3 +40,15 @@ The part of the string after an in bananana is anana.
 The part of the string after michiko in ocean is ocean.
 
 ![Output](https://github.com/michikofeehan/FindingGenes/blob/master/Part3%20output.png)
+
+
+
+
+
+Part 4: I wrote a program that reads the lines from the file at a URL location, and prints each URL on the page that is a link to youtube.com using URL resource to read file word by word. 
+
+The URLResource class opens a connection to a URL and allows access to the contents of the web page a line at a time, using the method .lines() or a word at a time, using the method .words() 
+These strings can then be iterated over using a for loop.
+
+
+![Output](https://github.com/michikofeehan/FindingGenes/blob/master/part4_output.png)
