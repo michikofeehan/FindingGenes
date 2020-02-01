@@ -28,7 +28,7 @@ Specifically, I did the following:
 
 1. I created a new Java Class named Part3 in this project and put the following methods in this class.
 
-2.I wrote the method called twoOccurrences that has two String parameters named stringa and stringb. This method returns boolean true if stringa appears at least twice in stringb, otherwise this method returns false. For example, the call twoOccurrences(“hello”, “hellogoodbyehello”) returns true as there are two occurrences of “hello”, this is shown in the output screen. The call twoOccurrences(“ohno”, “hellogoodbyehello”) returns false as there are no occurrences of “ohno”. I could probably do more test cases later...
+2. I wrote the method called twoOccurrences that has two String parameters named stringa and stringb. This method returns boolean true if stringa appears at least twice in stringb, otherwise this method returns false. For example, the call twoOccurrences(“hello”, “hellogoodbyehello”) returns true as there are two occurrences of “hello”, this is shown in the output screen. The call twoOccurrences(“ohno”, “hellogoodbyehello”) returns false as there are no occurrences of “ohno”. I could probably do more test cases later...
 
 3. I also wrote the void method named testing that has no parameters and this method calls twoOccurrences on several pairs of strings and print the strings and the result of calling twoOccurrences (true or false) for each pair. Please see my output.
 
